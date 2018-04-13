@@ -1,0 +1,65 @@
+span
+{
+    font-size:48px;
+
+    color:chartreuse;
+
+    vertical-align: center;
+}
+.titlebar
+{
+   height:80px;
+
+   width:100%;
+
+    /*background-color: #204d74;*/
+
+}
+.footbar
+{
+    width:100%;
+
+    height:920px;
+
+    /*background-color:rebeccapurple;*/
+}
+.leftpart
+{
+    width:48%;
+
+    height:95%;
+
+    margin-left:20px;
+
+    margin-top:20px;
+
+    background-color:#5bc0de;
+
+    float:left;
+}
+.rigthpart
+{
+     width:48%;
+
+    height:95%;
+
+    margin-left:20px;
+
+    margin-top:20px;
+
+    background-color:#5bc0de;
+
+    float:left;
+}
+li
+{
+
+
+}
+
+a
+{
+    font-family: "叶根友毛笔行书2.0版";
+    font-size: 36px;
+    color:rebeccapurple;
+}
